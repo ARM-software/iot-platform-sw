@@ -3,6 +3,8 @@ IoT Platform Software
 Unless specifically indicated otherwise in a file, files are licensed under
 Apache-2.0.
 
+Additional Licenses applicable to SDK are listed below.
+
 Beetle SDK
 ======================
-The Beetle SDK folder contains the license files which applies to all its files.
+The Beetle SDK folder contains the license details in beetle_sdk/LICENSE.txt
